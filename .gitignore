@@ -1,0 +1,6 @@
+.DS_Store
+*.a
+*.o
+docs/html
+docs/man
+docs/latex
