@@ -1,6 +1,7 @@
 .DS_Store
 *.a
 *.o
+*.out
 docs/html
 docs/man
 docs/latex
